@@ -1,2 +1,8 @@
 # Nemisys-0.12
-Nemisys port to 0.12.1, because StrangePacket is buggy thing
+
+* Nemisys-0.12 is the Java implementation of Synapse Proxy Protocol(SPP).
+* Nemisys-0.12 is powered by JSynLibServer and Nukkit RakNet.
+* Nemisys-0.12 is based on the GREAT [**Nukkit** Project](https://github.com/Nukkit/Nukkit).
+* Development status: **Alpha**
+* Current SPP version: 6
+* MCPE veraion: 0.12.1
