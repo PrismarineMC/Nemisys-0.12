@@ -5,4 +5,4 @@
 * Nemisys-0.12 is based on the GREAT [**Nukkit** Project](https://github.com/Nukkit/Nukkit).
 * Development status: **Alpha**
 * Current SPP version: 6
-* MCPE veraion: 0.12.1
+* MCPE version: 0.12.1
